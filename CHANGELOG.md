@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.2](https://github.com/cVladu/try-release-please/compare/v2.1.1...v2.1.2) (2025-08-14)
+
+
+### Bug Fixes
+
+* **docker:** fixed the new arg ([972cbb1](https://github.com/cVladu/try-release-please/commit/972cbb1291c9c02215b4a7a043f268487f9b6baa))
+
 ## [2.1.1](https://github.com/cVladu/try-release-please/compare/v2.1.0...v2.1.1) (2025-08-14)
 
 
