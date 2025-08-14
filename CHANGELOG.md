@@ -1,5 +1,18 @@
 # Changelog
 
+## [2.0.0](https://github.com/cVladu/try-release-please/compare/v0.1.1...v2.0.0) (2025-08-14)
+
+
+### Bug Fixes
+
+* **internal:** fix docker-action ([2c85905](https://github.com/cVladu/try-release-please/commit/2c85905a5fe0ae1665376159b252f29a5e73ac75))
+
+
+### Miscellaneous Chores
+
+* release major ([d1fb091](https://github.com/cVladu/try-release-please/commit/d1fb0911962dda91782337b6ef3c9551a1a01239))
+* release major ([688aee9](https://github.com/cVladu/try-release-please/commit/688aee9250e163cf6d3b3167e1fa93053ba418ec))
+
 ## [0.1.1](https://github.com/cVladu/try-release-please/compare/v0.1.0...v0.1.1) (2025-08-14)
 
 
