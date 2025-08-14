@@ -1,5 +1,15 @@
 # Changelog
 
+## [2.1.1](https://github.com/cVladu/try-release-please/compare/v2.1.0...v2.1.1) (2025-08-14)
+
+
+### Bug Fixes
+
+* argh ([0be9f1d](https://github.com/cVladu/try-release-please/commit/0be9f1d2c0f7da533f9ae4c02264e88620c4146b))
+* **internal:** Make the PR nicer ([0ed46d9](https://github.com/cVladu/try-release-please/commit/0ed46d958ffdb45d2eb3a9f076e3ba16b1291234))
+* **internal:** Try another fix ([7f6aa19](https://github.com/cVladu/try-release-please/commit/7f6aa19923fa6e7ac031cf66c30dd262f2681fcd))
+* Oups ([11b5216](https://github.com/cVladu/try-release-please/commit/11b5216fda5c13beca1bc04bf6ac146bea016a15))
+
 ## [2.1.0](https://github.com/cVladu/try-release-please/compare/v2.0.0...v2.1.0) (2025-08-14)
 
 
