@@ -61,8 +61,8 @@ jobs:
               await exec.exec('git', ["tag", "-d", `${package_name}-v${major}.${minor}`], cmdOpts);
               await exec.exec('git', ["push", "origin", `:${package_name}-v${major}`], cmdOpts)
               await exec.exec('git', ["push", "origin", `:${package_name}-v${major}.${minor}`], cmdOpts)
-              await exec.exec('git', ["tag", "-a", `${package_name}-v${major}`, "-m", `Release v${major}`])
-              await exec.exec('git', ["tag", "-a", `${package_name}-v${major}.${minor}`, "-m", `Release v${major}.${minor}`])
+              await exec.exec('git', ["tag", "-a", `${package_name}-v${major}`, "-m", `Release v${major} for ${package_name}`])
+              await exec.exec('git', ["tag", "-a", `${package_name}-v${major}.${minor}`, "-m", `Release v${major}.${minor} for ${package_name}`])
               await exec.exec('git', ["push", "origin", `${package_name}-v${major}`])
               await exec.exec('git', ["push", "origin", `${package_name}-v${major}.${minor}`])
             }
