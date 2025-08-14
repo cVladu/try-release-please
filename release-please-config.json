@@ -21,7 +21,7 @@
       "component": "hello-action", 
       "version-file": "version.txt",
       "initial-version": "0.5.0"
-    }
+    },
     "hello-composite": {
       "compoent": "hello-composite",
       "version-file": "version.txt",
