@@ -1,5 +1,3 @@
-// Wonder about undocumented "componet" attribute?
-// See https://github.com/googleapis/release-please-action/issues/951
 {
   "bootstrap-sha": "73fc6349431e4c45dd29f0559a40298cef2fe56a",
   "release-type": "simple",
