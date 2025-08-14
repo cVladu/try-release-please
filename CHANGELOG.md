@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.1](https://github.com/cVladu/try-release-please/compare/v0.1.0...v0.1.1) (2025-08-14)
+
+
+### Bug Fixes
+
+* **internal:** Fix release for good? ([9f559d8](https://github.com/cVladu/try-release-please/commit/9f559d8e10ae7d7d2323260cd378cad570becb15))
+* **internal:** More fixes ([f61f622](https://github.com/cVladu/try-release-please/commit/f61f622a00a83b2e49d1ce6c6fcf56c3d975ca27))
+
 ## 0.1.0 (2025-08-14)
 
 
