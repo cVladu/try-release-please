@@ -7,6 +7,9 @@ inputs:
     required: true
     default: 'World'
   another-args:
+    description: 'another arg'
+    required: false
+    default: ""
 outputs:
   time: # id of output
     description: 'The time we greeted you'
