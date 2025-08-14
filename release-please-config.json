@@ -20,8 +20,6 @@
       "include-component-in-tag": true,
       "version-file": "version.txt",
       "initial-version": "1.0.0",
-      "pull-request-header": "Release docker-action",
-      "pull-request-footer": ""
     },
     "hello-action": {
       "path": "hello-action",
@@ -29,8 +27,6 @@
       "include-component-in-tag": true,
       "version-file": "version.txt",
       "initial-version": "0.5.0",
-      "pull-request-header": "Release hello-action",
-      "pull-request-footer": ""
     }
   }
 }
