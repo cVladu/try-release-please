@@ -13,6 +13,7 @@ jobs:
           config-file: release-please-config.json
           manifest-file: .release-please-manifest.json
       - uses: actions/checkout@v4
+        if: ${{ steps.release.outputs.release_created }}
       - name: tag global major and minor versions
         if: ${{ steps.release.outputs.release_created }}
         run: |
