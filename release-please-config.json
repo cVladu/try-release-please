@@ -1,0 +1,20 @@
+{
+  "bootstrap-sha": "6fc119838885b0cb831e78ddd23ac01cb819e585",
+  "release-type": "simple",
+
+  "packages": {
+    ".": {
+      "include-component-in-tag": false,
+      "version-file": "version.txt",
+      "initial-version": "0.1.0"
+    },
+    "docker-action": {
+      "version-file": "docker-action/version.txt",
+      "initial-version": "1.0.0"
+    },
+    "hello-action": {
+      "version-file": "hello-action/version.txt",
+      "initial-version": "0.5.0"
+    },
+  },
+}
