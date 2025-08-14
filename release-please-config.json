@@ -26,5 +26,6 @@
       "compoent": "hello-composite",
       "version-file": "version.txt",
       "initial-version": "1.0.0"
+    }
   }
 }
