@@ -1,3 +1,5 @@
+// Wonder about undocumented "componet" attribute?
+// See https://github.com/googleapis/release-please-action/issues/951
 {
   "bootstrap-sha": "73fc6349431e4c45dd29f0559a40298cef2fe56a",
   "release-type": "simple",
@@ -9,8 +11,8 @@
       "include-component-in-tag": false,
       "version-file": "version.txt",
       "initial-version": "0.1.0",
-      "pull-request-header": "Top level Release",
-      "pull-request-footer": ""
+      "pull-request-header": "Automated release ${version}",
+      "pull-request-footer": " "
     },
     "docker-action": {
       "path": "docker-action",
