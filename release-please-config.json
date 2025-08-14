@@ -5,10 +5,10 @@
   "group-pull-request-header": "Automated release",
   "group-pull-request-footer": "",
   "include-v-in-tag": true,
+  "include-component-in-tag": true,
   "packages": {
     ".": {
       "path": ".",
-      "include-component-in-tag": false,
       "version-file": "version.txt",
       "initial-version": "0.1.0"
     },
