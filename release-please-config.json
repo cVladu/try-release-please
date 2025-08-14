@@ -17,14 +17,14 @@
       "component": "docker-action", 
       "include-component-in-tag": true,
       "version-file": "version.txt",
-      "initial-version": "1.0.0",
+      "initial-version": "1.0.0"
     },
     "hello-action": {
       "path": "hello-action",
       "component": "hello-action", 
       "include-component-in-tag": true,
       "version-file": "version.txt",
-      "initial-version": "0.5.0",
+      "initial-version": "0.5.0"
     }
   }
 }
