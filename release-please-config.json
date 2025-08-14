@@ -25,7 +25,7 @@
     "hello-composite": {
       "path": "hello-composite",
       "component": "hello-composite",
-      "version-file": "version.txt",
+      "version-file": "version.txt"
     }
   }
 }
