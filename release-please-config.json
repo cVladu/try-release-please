@@ -25,6 +25,7 @@
       "path": "hello-composite",
       "component": "hello-composite",
       "version-file": "version.txt"
+      "last-release-sha": "1a40bfbd8419d491e0106f2bb97267cec0293ad6"
     }
   }
 }
