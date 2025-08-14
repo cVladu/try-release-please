@@ -3,6 +3,7 @@
   "release-type": "simple",
   "group-pull-request-title-pattern": "auto: release ${version}",
   "include-v-in-tag": true,
+  "include-component-in-tag": true,
   "packages": {
     ".": {
       "include-component-in-tag": false,
@@ -13,15 +14,17 @@
     },
     "docker-action": {
       "component": "docker-action", 
-      "include-component-in-tag": true,
       "version-file": "version.txt",
       "initial-version": "1.0.0"
     },
     "hello-action": {
       "component": "hello-action", 
-      "include-component-in-tag": true,
       "version-file": "version.txt",
       "initial-version": "0.5.0"
     }
+    "hello-composite": {
+      "compoent": "hello-composite",
+      "version-file": "version.txt",
+      "initial-version": "1.0.0"
   }
 }
