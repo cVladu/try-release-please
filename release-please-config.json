@@ -14,17 +14,17 @@
     "docker-action": {
       "path": "docker-action",
       "component": "docker-action", 
-      "version-file": "version.txt",
+      "version-file": "version.txt"
     },
     "hello-action": {
       "path": "hello-action",
       "component": "hello-action", 
-      "version-file": "version.txt",
+      "version-file": "version.txt"
     },
     "hello-composite": {
       "path": "hello-composite",
       "component": "hello-composite",
-      "version-file": "version.txt",
+      "version-file": "version.txt"
     }
   }
 }
