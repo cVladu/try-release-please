@@ -17,7 +17,7 @@
       "include-component-in-tag": true,
       "version-file": "version.txt",
       "initial-version": "1.0.0",
-      "last-release-sha": "dabac7e80d86eaef4d887fd7eb9e67dfb4655c9b"
+      "last-release-sha": "2ad8a2d268523a8f5fe1e6cc84ca50e31ed50b84"
     },
     "hello-action": {
       "path": "hello-action",
