@@ -9,7 +9,7 @@
       "include-component-in-tag": false,
       "version-file": "version.txt",
       "initial-version": "0.1.0",
-      "pull-request-header": "Automated release ${version}",
+      "pull-request-header": "Automated release", 
       "pull-request-footer": " "
     },
     "docker-action": {
