@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/cVladu/try-release-please/compare/v2.0.0...v2.1.0) (2025-08-14)
+
+
+### Features
+
+* **docker:** Adding a new feature to docker ([bcf98ce](https://github.com/cVladu/try-release-please/commit/bcf98ceef66b959aa2f477fdb8a4fb0df4698fdc))
+
 ## [2.0.0](https://github.com/cVladu/try-release-please/compare/v1.2.0...v2.0.0) (2025-08-14)
 
 
