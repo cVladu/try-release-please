@@ -5,7 +5,6 @@
   "group-pull-request-header": "Automated release",
   "group-pull-request-footer": "",
   "include-v-in-tag": true,
-  "include-component-in-tag": true,
   "packages": {
     ".": {
       "path": ".",
@@ -15,12 +14,14 @@
     },
     "docker-action": {
       "path": "docker-action",
+      "component": "docker-action", 
       "include-component-in-tag": true,
       "version-file": "version.txt",
       "initial-version": "1.0.0"
     },
     "hello-action": {
       "path": "hello-action",
+      "component": "hello-action", 
       "include-component-in-tag": true,
       "version-file": "version.txt",
       "initial-version": "0.5.0"
