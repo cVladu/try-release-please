@@ -2,7 +2,8 @@
   "bootstrap-sha": "73fc6349431e4c45dd29f0559a40298cef2fe56a",
   "release-type": "simple",
   "group-pull-request-title-pattern": "auto: release ${version}",
-  "pull-request-footer": "",
+  "group-pull-request-header": "Automated release",
+  "group-pull-request-footer": "",
   "packages": {
     ".": {
       "include-component-in-tag": false,
