@@ -9,7 +9,7 @@
       "include-component-in-tag": false,
       "version-file": "version.txt",
       "pull-request-header": "Automated release", 
-      "pull-request-footer": " "
+      "pull-request-footer": " ",
       "prerelease-type": "rc",
       "prerelease": true
     },
