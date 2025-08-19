@@ -10,6 +10,8 @@
       "version-file": "version.txt",
       "pull-request-header": "Automated release", 
       "pull-request-footer": " "
+      "prerelease-type": "rc",
+      "prerelease": true
     },
     "docker-action": {
       "path": "docker-action",
