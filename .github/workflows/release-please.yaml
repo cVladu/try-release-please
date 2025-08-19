@@ -13,7 +13,7 @@ jobs:
         with:
           config-file: release-please-config.json
           manifest-file: .release-please-manifest.json
-          target-branch: {{ github.ref_name }}
+          target-branch: ${{ github.ref_name }}
       - uses: actions/checkout@v4
         if: ${{ steps.release.outputs.release_created }}
       - name: tag global major and minor versions
