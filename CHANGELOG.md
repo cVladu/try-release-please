@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.1](https://github.com/cVladu/try-release-please/compare/v2.2.0...v2.2.1) (2025-08-19)
+
+
+### Bug Fixes
+
+* typo ([aeacf32](https://github.com/cVladu/try-release-please/commit/aeacf32a9358c856546612468f1994598226347d))
+
 ## [2.2.0](https://github.com/cVladu/try-release-please/compare/v2.1.2...v2.2.0) (2025-08-14)
 
 
