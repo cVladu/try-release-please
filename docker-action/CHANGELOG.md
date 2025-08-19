@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.5.0](https://github.com/cVladu/try-release-please/compare/docker-action-v1.4.0...docker-action-v1.5.0) (2025-08-19)
+
+
+### Features
+
+* **docker:** add `docker-action` ([2ad8a2d](https://github.com/cVladu/try-release-please/commit/2ad8a2d268523a8f5fe1e6cc84ca50e31ed50b84))
+* **docker:** Adding a new feature to docker ([d1ee1a0](https://github.com/cVladu/try-release-please/commit/d1ee1a077184219daa13a3a7f553cc1edf48ce47))
+
+
+### Bug Fixes
+
+* **docker:** fixed the new arg ([a045e72](https://github.com/cVladu/try-release-please/commit/a045e7272db50fe5f395df0d28535ee5bd87ca31))
+
 ## [2.1.0](https://github.com/cVladu/try-release-please/compare/docker-action-v2.0.1...docker-action-v2.1.0) (2025-08-14)
 
 
