@@ -1,5 +1,20 @@
 # Changelog
 
+## [2.3.0](https://github.com/cVladu/try-release-please/compare/v2.2.0...v2.3.0) (2025-09-05)
+
+
+### Features
+
+* some `docker-action` new feature ([566bc97](https://github.com/cVladu/try-release-please/commit/566bc9793cc2779d0c11edf1a58c7f9ed092a410))
+
+
+### Bug Fixes
+
+* fix `docker-action` ([97de37f](https://github.com/cVladu/try-release-please/commit/97de37f36faf9ff18a3bfed5ef36c87b18a50a4d))
+* fix `hello-composite` ([004422d](https://github.com/cVladu/try-release-please/commit/004422d59e6399940ac015b00fffc520c7de5af4))
+* json stuff again ([05f6a2f](https://github.com/cVladu/try-release-please/commit/05f6a2f3e6d7baed36f9abdd4b35600fc9e1b484))
+* typo ([aeacf32](https://github.com/cVladu/try-release-please/commit/aeacf32a9358c856546612468f1994598226347d))
+
 ## [2.2.0](https://github.com/cVladu/try-release-please/compare/v2.1.2...v2.2.0) (2025-08-14)
 
 
