@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.4.0](https://github.com/cVladu/try-release-please/compare/v2.3.0...v2.4.0) (2025-09-08)
+
+
+### Features
+
+* try without token ([ab06a83](https://github.com/cVladu/try-release-please/commit/ab06a835d89ee2d3b4a03476128301de3aec5ea1))
+
 ## [2.3.0](https://github.com/cVladu/try-release-please/compare/v2.2.0...v2.3.0) (2025-09-05)
 
 
