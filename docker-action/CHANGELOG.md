@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.1](https://github.com/cVladu/try-release-please/compare/docker-action-v2.2.0...docker-action-v2.2.1) (2025-09-11)
+
+
+### Bug Fixes
+
+* another comment ([aee9060](https://github.com/cVladu/try-release-please/commit/aee9060484c1a86911c5924e5c9bd696df872d7a))
+
 ## [2.2.0](https://github.com/cVladu/try-release-please/compare/docker-action-v2.1.0...docker-action-v2.2.0) (2025-09-05)
 
 
