@@ -16,18 +16,21 @@
     "docker-action": {
       "path": "docker-action",
       "component": "docker-action", 
-      "version-file": "version.txt"
+      "version-file": "version.txt",
+      "skip-github-release": true
     },
     "hello-action": {
       "path": "hello-action",
       "component": "hello-action", 
-      "version-file": "version.txt"
+      "version-file": "version.txt",
+      "skip-github-release": true
     },
     "hello-composite": {
       "path": "hello-composite",
       "component": "hello-composite",
       "version-file": "version.txt",
-      "initial-version": "10.0.0"
+      "initial-version": "10.0.0",
+      "skip-github-release": true
     }
   }
 }
