@@ -1,5 +1,12 @@
 # Changelog
 
+## [10.0.2](https://github.com/cVladu/try-release-please/compare/hello-composite-v10.0.1...hello-composite-v10.0.2) (2025-09-11)
+
+
+### Bug Fixes
+
+* comment ([a0af519](https://github.com/cVladu/try-release-please/commit/a0af51963a8cb6f4119a923ff8095fbd00d6019d))
+
 ## [10.0.1](https://github.com/cVladu/try-release-please/compare/hello-composite-v10.0.0...hello-composite-v10.0.1) (2025-09-05)
 
 

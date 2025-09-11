@@ -1,5 +1,19 @@
 # Changelog
 
+## [2.5.0](https://github.com/cVladu/try-release-please/compare/v2.4.0...v2.5.0) (2025-09-11)
+
+
+### Features
+
+* **release:** Don't release components ([96a7e2b](https://github.com/cVladu/try-release-please/commit/96a7e2bb90925111b725d0c1ee45de3b2006f706))
+
+
+### Bug Fixes
+
+* another comment ([aee9060](https://github.com/cVladu/try-release-please/commit/aee9060484c1a86911c5924e5c9bd696df872d7a))
+* comment ([a0af519](https://github.com/cVladu/try-release-please/commit/a0af51963a8cb6f4119a923ff8095fbd00d6019d))
+* do another token ([d3c5883](https://github.com/cVladu/try-release-please/commit/d3c5883e6a6c70b105624a425c37fc827ee6e025))
+
 ## [2.4.0](https://github.com/cVladu/try-release-please/compare/v2.3.0...v2.4.0) (2025-09-08)
 
 
