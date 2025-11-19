@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.5.1](https://github.com/cVladu/try-release-please/compare/v2.5.0...v2.5.1) (2025-11-19)
+
+
+### Bug Fixes
+
+* something ([3bfe695](https://github.com/cVladu/try-release-please/commit/3bfe6953267817635ccd8510e236fee062fc266e))
+* something ([111b166](https://github.com/cVladu/try-release-please/commit/111b16621abe41a4ea7d60e43635a2960de20281))
+* Yet another fix ([4198bbf](https://github.com/cVladu/try-release-please/commit/4198bbfe28856bbc0417ee190004f377c7710ecf))
+
 ## [2.5.0](https://github.com/cVladu/try-release-please/compare/v2.4.0...v2.5.0) (2025-09-11)
 
 

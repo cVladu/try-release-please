@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.1.1](https://github.com/cVladu/try-release-please/compare/hello-action-v2.1.0...hello-action-v2.1.1) (2025-11-19)
+
+
+### Bug Fixes
+
+* something ([3bfe695](https://github.com/cVladu/try-release-please/commit/3bfe6953267817635ccd8510e236fee062fc266e))
+* something ([111b166](https://github.com/cVladu/try-release-please/commit/111b16621abe41a4ea7d60e43635a2960de20281))
+
 ## [2.1.0](https://github.com/cVladu/try-release-please/compare/hello-action-v2.0.0...hello-action-v2.1.0) (2025-08-14)
 
 
